@@ -1,0 +1,6 @@
+framework module Pods_DeliveryTracker_DeliveryTrackerUITests {
+  umbrella header "Pods-DeliveryTracker-DeliveryTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
